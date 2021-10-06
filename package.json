@@ -1,0 +1,20 @@
+{
+  "name": "aadhardownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "querystring": "^0.2.1",
+    "readline-sync": "^1.4.10"
+  }
+}
